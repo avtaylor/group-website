@@ -23,7 +23,7 @@ Use [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Chea
 3. Another with a <del>strikethrough</del>
 
 Image: 
-![alt text](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png "Image to insert")
+![alt text](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png?raw=true "Image to insert")
 [Carpentries website again using a reference][carpentries]
 
 [carpentries]: https://carpentries-incubator.github.io/jekyll-pages-novice/
