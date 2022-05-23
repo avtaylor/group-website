@@ -1,3 +1,7 @@
+---
+poly_website: "mubas.ac.mw"
+---
+
 # Building Websites in GitHub
 
 ## Description
@@ -7,3 +11,5 @@ This is a good tutorial - at a good pace - showing me how to build websites with
 [Check the About page](https://avtaylor.github.io/group-website/about.md)
 
 twitter handle: {{site.twitterurl}}
+
+University website: {{ page.poly_website }}
