@@ -1,8 +1,8 @@
 ---
+layout: default
 poly_website: "mubas.ac.mw"
 ---
 
-{% include navigation.html %}
 
 # Building Websites in GitHub
 
