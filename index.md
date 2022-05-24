@@ -3,6 +3,7 @@ layout: default
 poly_website: "mubas.ac.mw"
 ---
 
+{% include banner.html %}
 
 # Building Websites in GitHub
 
