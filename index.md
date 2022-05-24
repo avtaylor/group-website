@@ -1,5 +1,5 @@
 ---
-layout: "default"
+layout: default
 poly_website: "mubas.ac.mw"
 ---
 
