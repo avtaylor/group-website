@@ -1,7 +1,8 @@
-{% include navigation.html %}
+---
+layout: default
+---
 
 # About us
 
 ## Amelia Taylor
 
-{% include footer.html %}
