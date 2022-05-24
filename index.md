@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: "default"
 poly_website: "mubas.ac.mw"
 ---
 
@@ -17,4 +17,4 @@ twitter handle: {{site.twitterurl}}
 University website: {{ page.poly_website }}
 
 
-{% include footer.html %}
+
