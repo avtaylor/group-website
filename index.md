@@ -15,3 +15,6 @@ This is a good tutorial - at a good pace - showing me how to build websites with
 twitter handle: {{site.twitterurl}}
 
 University website: {{ page.poly_website }}
+
+
+{ % include footer.html % }
