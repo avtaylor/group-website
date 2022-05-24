@@ -3,3 +3,5 @@
 # About us
 
 ## Amelia Taylor
+
+{% include footer.html %}
