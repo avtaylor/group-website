@@ -17,4 +17,4 @@ twitter handle: {{site.twitterurl}}
 University website: {{ page.poly_website }}
 
 
-{ % include footer.html % }
+{% include footer.html %}
